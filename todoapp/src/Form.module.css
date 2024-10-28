@@ -1,0 +1,31 @@
+.todoform{
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 50px;
+    box-shadow: 0 4px 6px rgb(0,0,0.14);
+}
+.input{
+    display: block;
+    width: 100%;
+    color: black;
+    font-size: 16px;
+}
+
+.button{
+    display: inline-block;
+    border: none;
+    border-radius: 5px;
+    background-color: yellow;
+    padding: 12px 20px;
+    cursor: pointer;
+    font-size:20px ;
+    font-weight: bold;
+}
+
+.inpbox{
+    display: flex;
+    gap: 3px;
+}
